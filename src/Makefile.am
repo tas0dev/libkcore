@@ -8,5 +8,5 @@ libkcore_la_SOURCES = \
 
 libkcore_la_LDFLAGS = -version-info 0:0:0
 
-include_HEADERS = konio.h
+include_HEADERS = kcore.h
 
